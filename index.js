@@ -225,9 +225,10 @@ Vincent Van Dough. Use an array method to fix this issue and console.log() to ch
  * For example, if getArtistByIndex is invoked with the artists dataset and the number 0,
  * it will return `The artist at index 0 is Amedeo Modigliani`.
 */
-function getArtistByIndex(array, index) {
-    /* code here */
-  }
+    function getArtistByIndex(array, index) {
+    return (`The artist at index ${artists.id} is ${artists.name}.`)
+    }
+    console.log(getArtistByIndex(artists, 8))
   
   /**
 
