@@ -1,0 +1,20 @@
+How would you describe acessibility on the web to someone new to programming?
+    Accesibility is making your website accessible to everyone. 
+
+
+Talk about 3 different things you can do to ensure your website is accessible.
+    If someone is using a screen reader you would want to make sure you alt text for images and semantic html 
+    and css for everything so that the screen reader can comprehend your site.
+    You can also make your site responsive to different sized sreens that way no matter what device a person is
+    using they can still get the most out of your site.
+    Another way would be to make sure sizing is not hard coded so that if a person zooms or adjusts the font size
+    the website will grow with it and not stay one size.
+
+
+
+How would you explain the concept of a variable to someone new to programming?
+    A variable is used to store data values.
+
+
+What is the purpose of using functions in code?
+    Functions are good for executing tasks.
